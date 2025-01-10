@@ -9,7 +9,7 @@
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
-			<version>4.25.0</version>
+			<version>4.27.0</version>
 		</dependency>
 
 
@@ -20,6 +20,19 @@
 			<version>7.10.2</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>5.1.2</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/ru.yandex.qatools.allure/allure-report-data -->
+<dependency>
+    <groupId>ru.yandex.qatools.allure</groupId>
+    <artifactId>allure-report-data</artifactId>
+    <version>1.5.4</version>
+</dependency>
+
 
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>

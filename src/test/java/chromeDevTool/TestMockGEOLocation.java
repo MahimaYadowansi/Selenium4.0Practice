@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.devtools.DevTools;
 import org.openqa.selenium.devtools.HasDevTools;
-import org.openqa.selenium.devtools.v128.emulation.Emulation;
+import org.openqa.selenium.devtools.v129.emulation.Emulation;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

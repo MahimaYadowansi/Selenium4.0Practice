@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.devtools.DevTools;
 import org.openqa.selenium.devtools.HasDevTools;
-import org.openqa.selenium.devtools.v127.security.Security;
+import org.openqa.selenium.devtools.v129.security.Security;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
